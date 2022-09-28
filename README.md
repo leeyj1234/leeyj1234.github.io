@@ -1,4 +1,8 @@
-✨<span style="color:black">[intro-me](https://leeyj1234.github.io/intro-me/)</span>
+✨<a href="https://leeyj1234.github.io/intro-me/" target='_blank'>
+    <span style="color:black">
+      intro-me
+    </span>
+  </a>
 
 
 
