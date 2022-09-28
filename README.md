@@ -1,4 +1,4 @@
-✨<a href="https://leeyj1234.github.io/intro-me/">intro-me<a>
+✨<a href="https://leeyj1234.github.io/intro-me/" target"_blank">intro-me<a>
 
 <!--
 **leeyj1234/leeyj1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
