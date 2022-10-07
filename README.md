@@ -15,8 +15,8 @@
 - [x] 9/26일 기초반 스터디 1주차 진행 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 이유정: [intro-me](https://github.com/leeyj1234/intro-me/blob/main/index.html)
 - [x] 9/30일 - 1차 화상모임 및 과제 제출<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 프로젝트 방향성 논의<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 기초반 스터디 2주차 진행 및 알고리즘 공유<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 기초반 스터디 2주차 진행 및 알고리즘 논의<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 프로젝트 방향성 논의
 - [x] 10/3일 프로젝트 진행 세부작업 분류
 - [x] 10/4일 레포지토리 생성
 - [x] 10/5일 프로젝트 1차 계획수립<br>
