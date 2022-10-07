@@ -22,7 +22,7 @@
 - [x] 10/5일 프로젝트 1차 계획수립<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 10월 5일 ~ 8일 : 김은채 - 메인페이지 header 완성 (이벤트 포함)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 10월 5일 ~ 8일 : 이유정 - 이벤트페이지 구조 완성 (추가작업: 모달)
-- [ ] 10/7일 - 2차 화상모임 및 과제 제출<br>
+- [x] 10/7일 - 2차 화상모임 및 과제 제출<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 프로젝트 일정 확인 및 추가사항 논의
 - [ ] 10/10일 기초반 스터디 3주차 진행
 ## 4. [참조링크](https://github.com/eunbbori/SAMSUNG_CLONE)
