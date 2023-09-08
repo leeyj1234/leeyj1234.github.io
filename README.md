@@ -1,4 +1,4 @@
-✨<a href="http://leeyj1234.github.io/portfolio/index.html" target='_blank'>
+✨<a href="https://leeyj1234.github.io/portfolio" target='_blank'>
     <span style="color:black">
       my site
     </span>
