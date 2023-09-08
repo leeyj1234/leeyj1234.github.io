@@ -1,6 +1,6 @@
 ✨<a href="https://leeyj1234.github.io/learning-result/" target='_blank'>
     <span style="color:black">
-      learning result
+      my site
     </span>
   </a>
 
