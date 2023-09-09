@@ -113,7 +113,7 @@
 			// Toggles.
 				$toggles
 					.removeAttr('href')
-					.css('cursor', 'pointer')
+					// .css('cursor', 'pointer')
 					.on('click', function(event) {
 
 						event.preventDefault();
@@ -172,7 +172,7 @@
 				// Redirect on click.
 					$this
 						.removeAttr('href')
-						.css('cursor', 'pointer')
+						// .css('cursor', 'pointer')
 						.on('click', function(event) {
 
 							event.preventDefault();
